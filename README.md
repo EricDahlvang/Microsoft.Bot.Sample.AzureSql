@@ -475,11 +475,11 @@ private BotDataInfo IncrementInfoCount(IBotDataBag botdata, string key)
 
 You should now be able to run the bot, connect to it from the emulator, and see something similar to the following:
 
-![Bot](.\images\Bot.PNG)
+![Bot](/images/Bot.PNG)
 
 If you look at the database, you'll see data:
 
-![Stored Entities](.\images\SqlBotDataEntities.PNG)
+![Stored Entities](/images/SqlBotDataEntities.PNG)
 
 ## References
 *	[docs.microsoft.com/.../bot-framework-rest-state](https://docs.microsoft.com/en-us/bot-framework/rest-api/bot-framework-rest-state)
