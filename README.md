@@ -1,4 +1,4 @@
-# Implementing a Custom State Service in Azure SQL
+# Implementing a Custom State Client in Azure SQL
 
 C# Prerequisites: 
 * [Free Azure Trial account](https://azure.microsoft.com/)
